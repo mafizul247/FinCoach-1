@@ -1,0 +1,59 @@
+* {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.text-color-secondary{
+    color: #4C4F57;
+}
+
+.text-color-primary {
+    color: #fd4695;
+}
+
+.text-color-primary:hover {
+    color: #fd4695;
+}
+
+.bg-color-primary {
+    background: linear-gradient(133.53deg, #FF68AA 2.44%, #F94594 47.66%, #A41A7F 100%);
+
+}
+
+
+
+.primary-btn {
+    color: #FFFFFF;
+    padding: 15.9459px 42.5225px;
+    gap: 10.63px;    
+    width: 265.68px;
+    height: 61.66px;
+    background: linear-gradient(133.53deg, #FF68AA 2.44%, #F94594 47.66%, #A41A7F 100%);
+    border: 0;
+    box-shadow: 0px 19.1351px 35.0811px -6.37838px rgba(236, 105, 162, 0.15);
+    border-radius: 31.8919px;
+}
+
+.bg-orang {
+    background: #FF8643;
+}
+
+.bg-blue {
+    background: #4378FF;
+}
+
+.bg-green {
+    background: #15DE9B;
+}
+
+.bg-pink {
+    background: #F23674;
+}
+
+.bg-sky{
+    background: #23BFFA;
+}
+
+.bg-color-seconday {
+    background: #FFFFFF;
+}
